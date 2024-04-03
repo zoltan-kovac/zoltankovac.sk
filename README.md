@@ -1,1 +1,1 @@
-Github Pages for [zoltankovac.com](www.zoltankovac.sk)
+Github Pages for [zoltankovac.sk](http://www.zoltankovac.sk)
